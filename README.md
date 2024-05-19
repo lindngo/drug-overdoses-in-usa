@@ -10,7 +10,7 @@ https://public.tableau.com/app/profile/lindadngo/viz/usa-drug-overdoses-2/Analyz
 [https://github.com/lindngo/us-drug-overdoses/blob/main/cleaned_drug_overdose_death_rates.xlsx](https://github.com/lindngo/us-drug-overdoses/blob/main/cleaned_drug_overdose_death_rates.xlsx)
 
 ## Dataset Factors
-Please see this page for more details: https://data.cdc.gov/NCHS/Drug-overdose-death-rates-by-drug-type-sex-age-rac/95ax-ymtc/about_data
+See this page for more details: https://data.cdc.gov/NCHS/Drug-overdose-death-rates-by-drug-type-sex-age-rac/95ax-ymtc/about_data
 
 ## Data Cleaning
 - 1,112 data rows had * in the Flag column, indicating that these rows had null values in the Estimate column. For a more accurate and insightful analysis, I decided to remove these null values.
