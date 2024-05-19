@@ -7,7 +7,7 @@ I utilized Google Sheets to do an initial cleaning of the data. I also used visu
 https://public.tableau.com/app/profile/lindadngo/viz/usa-drug-overdoses-2/AnalyzingDrugOverdoseDeathsinUSA?publish=yes
 
 ## Dataset
-[https://raw.githubusercontent.com/zariable/data/master/titanic_train.csv](https://github.com/lindngo/us-drug-overdoses/blob/main/cleaned_drug_overdose_death_rates.xlsx)
+[cleaned_drug_overdose_death_rates.xlsx](https://github.com/lindngo/us-drug-overdoses/blob/main/cleaned_drug_overdose_death_rates.xlsx)
 
 ## Dataset Factors
 See Dataset link above for more details
