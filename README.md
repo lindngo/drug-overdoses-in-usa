@@ -12,6 +12,9 @@ https://public.tableau.com/app/profile/lindadngo/viz/usa-drug-overdoses-2/Analyz
 ## Dataset Factors
 See this page for more details: https://data.cdc.gov/NCHS/Drug-overdose-death-rates-by-drug-type-sex-age-rac/95ax-ymtc/about_data
 
+## Other Sources Used
+https://www.cbo.gov/system/files/2022-09/58221-opioid-crisis.pdf
+
 ## Defining Objectives and Questions
 My main objectives for this dashboard were to learn at least one new Tableau feature, visualize the data trends in an eye catching manner, and format the cards in a logical order to allow for smooth data storytelling.
 
