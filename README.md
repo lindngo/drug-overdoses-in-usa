@@ -10,6 +10,22 @@ https://public.tableau.com/app/profile/lindadngo/viz/usa-drug-overdoses-2/Analyz
 [https://github.com/lindngo/us-drug-overdoses/blob/main/cleaned_drug_overdose_death_rates.xlsx](https://github.com/lindngo/us-drug-overdoses/blob/main/cleaned_drug_overdose_death_rates.xlsx)
 
 ## Dataset Factors
+- INDICATOR: Measure being estimated.
+- PANEL: Submeasures of INDICATOR. Datasets may have multiple panels.
+- PANEL_NUM: Numeric code for levels of PANEL that may be used for easier coding or formatting of the PANEL variable.
+- UNIT:	Unit of measurement of the estimate.
+- UNIT_NUM:	Numeric code for levels of UNIT that may be used for easier coding or formatting of the UNIT variable.
+- STUB_NAME: Description of the population category pertaining to the estimate.
+- STUB_NAME_NUM: Numeric code for levels of STUB_NAME that may be used for easier coding or formatting of the STUB_NAME variable.
+- STUB_LABEL: Specific population subgroup pertaining to the estimate.
+- STUB_LABEL_NUM: Numeric code for levels of STUB_LABEL that may be used for easier coding or formatting of the STUB_LABEL variable.
+- YEAR: Data year or range of data years pertaining to the estimate.
+- YEAR_NUM:	Numeric code for levels of YEAR that may be used for easier coding or formatting of the YEAR variable.
+- AGE:	Age group pertaining to the estimate.
+- AGE_NUM:	Numeric code for levels of AGE that may be used for easier coding or formatting of the AGE variable.
+- ESTIMATE:	Calculated estimate of the measure.
+- FLAG:	Additional information pertaining to the estimate. See the footnotes in the source table (Excel) for more information.
+
 See this page for more details: https://data.cdc.gov/NCHS/Drug-overdose-death-rates-by-drug-type-sex-age-rac/95ax-ymtc/about_data
 
 ## Other Sources Used
