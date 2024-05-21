@@ -51,5 +51,4 @@ After cleaning the dataset and pinpointing which questions would be the focus of
 ## Data Interpretation and Visualization
 Once all metrics were created, I explored the various types of visualization techniques to see which mappings would best portray my findings in a clear and effective manner. As a lot of my data points were plotted over time, I went with line charts to depict findings of estimated deaths by drug type and age group. For categorical data, such as sex and race, I used bar charts to visualize the number of deaths, which allowed to direct comparisons between populations.
 
-## Data Storytelling
-After all cards were created and formatted on dashboard pages, I mapped out the order of these pages on to a Story. That way, I can guide the user on a journey through the data.
+## Conclusion
