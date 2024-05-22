@@ -46,7 +46,7 @@ With the limited time for the Datathon, my vision was to focus on 2 major questi
 
 
 ## Data Analysis
-After cleaning the dataset and pinpointing which questions would be the focus of my analysis, I explored which metrics would be the best to answer Q2 in the Defining Objectives and Questions section. After brainstorming, I concluded that *percent difference in death estimates by year* and *percent of total deaths by race* would be insightful metrics for this report.
+After cleaning the dataset and pinpointing which questions would be the focus of my analysis, I explored which metrics would be the best to answer Q2 in the Defining Objectives and Questions section. After brainstorming, I concluded that *percent difference in death estimates by year* and *percent of total deaths by race* would be insightful metrics for this report. The calculations for both metrics were as follows, respectively: 
 
 ## Data Interpretation and Visualization
 Once all metrics were created, I explored the various types of visualization techniques to see which mappings would best portray my findings in a clear and effective manner. As a lot of my data points were plotted over time, I went with line charts to depict findings of estimated deaths by drug type and age group. For categorical data, such as sex and race, I used bar charts to visualize the number of deaths, which allowed to direct comparisons between populations.
