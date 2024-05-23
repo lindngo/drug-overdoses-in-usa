@@ -1,7 +1,7 @@
 # Drug Overdoses in USA
 
 ## Overview
-I utilized Google Sheets to do an initial cleaning of the data. I also used visualization techniques through Tableau to create graphs of the data, including bar charts, line graphs, and more.
+I utilized Google Sheets to do an initial cleaning of the data. I also used visualization techniques through Tableau to create graphs and dashboards of the data, including bar charts, line graphs, and more.
 
 ## Tableau Public Dashboard
 https://public.tableau.com/app/profile/lindadngo/viz/usa-drug-overdoses-2/AnalyzingDrugOverdoseDeathsinUSA?publish=yes
