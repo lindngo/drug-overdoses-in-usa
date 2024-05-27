@@ -42,7 +42,7 @@ With the limited time for the Datathon, my vision was to focus on 2 major questi
 
 ## Data Cleaning
 - 1,112 data rows had * in the Flag column, indicating that these rows had null values in the Estimate column. For a more accurate and insightful analysis, I decided to remove these null values.
-- In the Stub Label column, race was always paired with another label, such as sex. In order to do analysis based solely on race, I created a calculated field using "IF ELSE" statements. When creating these statements, I took note that there were two separate Asian labels -- Asian and Asian or Pacific Islander. To make the analysis more cohesive, I combined these two labels under Asian or Pacific Islander.
+- In the Stub Label column, race was always paired with another label, such as sex. In order to do analysis based solely on race, I created a calculated field using "IF ELSE" statements. When creating these statements, I took note that there were two separate Asian labels: Asian and Asian or Pacific Islander. To make the analysis more cohesive, I combined these two labels under Asian or Pacific Islander.
 
 
 ## Data Analysis
